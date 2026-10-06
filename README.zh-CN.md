@@ -1,4 +1,4 @@
-# 精选自托管软件（Awesome-Selfhosted 中文版）
+# 精选自托管软件（Awesome-Selfhosted 中文版） <a id="awesome-selfhosted"></a>
 
 **[English](README.md) · 简体中文**
 
@@ -10,10 +10,10 @@
 
 **[HTML 版本](https://awesome-selfhosted.net/)（推荐）**，[Markdown 版本](https://github.com/awesome-selfhosted/awesome-selfhosted)（旧版）。
 
-参见[贡献指南](#贡献指南)。
+参见[贡献指南](#contributing)。
 --------------------
 
-## 目录
+## 目录 <a id="table-of-contents"></a>
 
 - [软件](#software)
   - [分析统计](#analytics)
@@ -119,9 +119,9 @@
 
 --------------------
 
-## 软件
+## 软件 <a id="software"></a>
 
-### 分析统计
+### 分析统计 <a id="analytics"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -162,7 +162,7 @@ _相关：[数据库管理](#database-management)、[个人仪表盘](#personal-
 - [Umami](https://umami.is/) - 简单、快速、注重隐私的 Google Analytics 替代方案。([演示](https://cloud.umami.is/share/LGazGOecbDtaIwDr)、[源代码](https://github.com/umami-software/umami)) `MIT` `Nodejs/Docker`
 
 
-### 归档与数字保存（DP）
+### 归档与数字保存（DP） <a id="archiving-and-digital-preservation-dp"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -188,7 +188,7 @@ _另见：[awesome-web-archiving](https://github.com/iipc/awesome-web-archiving)
 - [Wayback](https://github.com/wabarc/wayback) - 自托管工具集，可将网页归档到 Internet Archive、archive.today、IPFS 和本地文件系统。 `GPL-3.0` `Go`
 
 
-### 自动化
+### 自动化 <a id="automation"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -225,7 +225,7 @@ _相关：[物联网（IoT）](#internet-of-things-iot)、[软件开发 - 持续
 - [µTask](https://github.com/ovh/utask) - 自动化引擎，可对以 YAML 声明的业务流程进行建模与执行。 `BSD-3-Clause` `Go/Docker`
 
 
-### 备份
+### 备份 <a id="backup"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -237,7 +237,7 @@ _相关：[归档与数字保存（DP）](#archiving-and-digital-preservation-dp
 
 
 
-### 博客平台
+### 博客平台 <a id="blogging-platforms"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -263,7 +263,7 @@ _另见：[WeblogMatrix](https://www.weblogmatrix.org/)_
 - [WriteFreely](https://writefreely.org) - 用于创建极简、联邦式博客——或整个社区——的写作软件。([源代码](https://github.com/writefreely/writefreely)) `AGPL-3.0` `Go`
 
 
-### 预约与日程安排
+### 预约与日程安排 <a id="booking-and-scheduling"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -281,7 +281,7 @@ _相关：[投票与活动](#polls-and-events)、[群件（协同办公）](#gro
 - [Seatsurfing](https://seatsurfing.app/) - 基于 Web 的应用，用于预订办公室的座位、工位和会议室。([源代码](https://github.com/seatsurfing/seatsurfing)) `GPL-3.0` `Docker`
 
 
-### 书签与链接分享
+### 书签与链接分享 <a id="bookmarks-and-link-sharing"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -308,7 +308,7 @@ _相关：[个人仪表盘](#personal-dashboards)_
 - [SyncMarks](https://codeberg.org/Offerel/SyncMarks-Webapp) - 同步和管理来自 Edge、Firefox 和 Chromium 的浏览器书签。([客户端](https://codeberg.org/Offerel/SyncMarks-Extension)) `AGPL-3.0` `PHP`
 
 
-### 日历与联系人
+### 日历与联系人 <a id="calendar--contacts"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -326,7 +326,7 @@ _相关：[群件（协同办公）](#groupware)_
 - [Xandikos](https://github.com/jelmer/xandikos) - 开源 CardDAV 与 CalDAV 服务器，管理开销极低，由 Git 仓库作为后端。 `GPL-3.0` `Python/deb`
 
 
-### 通信 - 自定义通信系统
+### 通信 - 自定义通信系统 <a id="communication---custom-communication-systems"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -373,7 +373,7 @@ _相关：[群件（协同办公）](#groupware)_
 - [Zulip](https://zulip.org) - Zulip 是一款功能强大、开源的群组聊天应用。([源代码](https://github.com/zulip/zulip)) `Apache-2.0` `Python`
 
 
-### 通信 - 电子邮件 - 完整解决方案
+### 通信 - 电子邮件 - 完整解决方案 <a id="communication---email---complete-solutions"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -398,7 +398,7 @@ _相关：[群件（协同办公）](#groupware)_
 - [wildduck](https://wildduck.email/) - 可扩展、无单点故障的 IMAP/POP3 邮件服务器。([源代码](https://github.com/zone-eu/wildduck)) `EUPL-1.2` `Nodejs/Docker`
 
 
-### 通信 - 电子邮件 - 邮件投递代理
+### 通信 - 电子邮件 - 邮件投递代理 <a id="communication---email---mail-delivery-agents"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -409,7 +409,7 @@ _相关：[群件（协同办公）](#groupware)_
 - [Dovecot](https://www.dovecot.org/) - 以安全为首要考量编写的 IMAP 与 POP3 服务器。([源代码](https://github.com/dovecot/core)) `MIT/LGPL-2.1` `C/deb`
 
 
-### 通信 - 电子邮件 - 邮件传输代理
+### 通信 - 电子邮件 - 邮件传输代理 <a id="communication---email---mail-transfer-agents"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -426,7 +426,7 @@ _相关：[群件（协同办公）](#groupware)_
 - [Sendmail](https://www.proofpoint.com/us/products/email-protection/open-source-email-solution) - 邮件传输代理（MTA）。 `Sendmail` `C/deb`
 
 
-### 通信 - 电子邮件 - 邮件列表与通讯
+### 通信 - 电子邮件 - 邮件列表与通讯 <a id="communication---email---mailing-lists-and-newsletters"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -446,7 +446,7 @@ _相关：[客户关系管理（CRM）](#customer-relationship-management-crm)_
 - [Sympa](https://www.sympa.community/) - 邮件列表管理器。([源代码](https://github.com/sympa-community/sympa)) `GPL-2.0` `Perl`
 
 
-### 通信 - 电子邮件 - 网页邮件客户端
+### 通信 - 电子邮件 - 网页邮件客户端 <a id="communication---email---webmail-clients"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -458,7 +458,7 @@ _相关：[客户关系管理（CRM）](#customer-relationship-management-crm)_
 - [SquirrelMail](https://squirrelmail.org) - 另一款基于浏览器的 IMAP 客户端。([源代码](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPL-2.0` `PHP`
 
 
-### 通信 - IRC
+### 通信 - IRC <a id="communication---irc"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -477,7 +477,7 @@ _相关：[客户关系管理（CRM）](#customer-relationship-management-crm)_
 - [ZNC](https://wiki.znc.in/ZNC) - 高级 IRC bouncer。([源代码](https://github.com/znc/znc)) `Apache-2.0` `C++/deb`
 
 
-### 通信 - SIP
+### 通信 - SIP <a id="communication---sip"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -497,7 +497,7 @@ _相关：[客户关系管理（CRM）](#customer-relationship-management-crm)_
 - [Yeti-Switch](https://yeti-switch.org/) - 具有集成计费与路由引擎以及 REST API 的转接级 4 类软交换机（SBC）。([演示](https://demo.yeti-switch.org/)、[源代码](https://github.com/yeti-switch)) `GPL-2.0` `C++/Ruby`
 
 
-### 通信 - 社交网络与论坛
+### 通信 - 社交网络与论坛 <a id="communication---social-networks-and-forums"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -545,7 +545,7 @@ _相关：[客户关系管理（CRM）](#customer-relationship-management-crm)_
 - [yarn.social](https://yarn.social) - 自托管、类 Twitter™ 的去中心化微博客平台。无广告、无追踪，你的内容、你的数据。([源代码](https://git.mills.io/yarnsocial/yarn)) `MIT` `Go`
 
 
-### 通信 - 视频会议
+### 通信 - 视频会议 <a id="communication---video-conferencing"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -564,7 +564,7 @@ _相关：[会议管理](#conference-management)_
 - [plugNmeet](https://www.plugnmeet.org/) - 可扩展、高性能的 Web 会议系统。([演示](https://demo.plugnmeet.com/login.html)、[源代码](https://github.com/mynaparrot/plugNmeet-server)) `MIT` `Docker/Go`
 
 
-### 通信 - XMPP - 服务器
+### 通信 - XMPP - 服务器 <a id="communication---xmpp---servers"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -578,7 +578,7 @@ _相关：[会议管理](#conference-management)_
 - [Tigase](https://tigase.net/xmpp-server) - 用 Java 实现的 XMPP 服务器。([源代码](https://github.com/tigase/tigase-server)) `GPL-3.0` `Java`
 
 
-### 通信 - XMPP - 网页客户端
+### 通信 - XMPP - 网页客户端 <a id="communication---xmpp---web-clients"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -589,7 +589,7 @@ _相关：[会议管理](#conference-management)_
 - [Salut à Toi](https://www.salut-a-toi.org/) - 多用途、多前端、自由且去中心化的通信工具。([源代码](https://repos.goffi.org/libervia-backend)) `AGPL-3.0` `Python`
 
 
-### 社区支持农业（CSA）
+### 社区支持农业（CSA） <a id="community-supported-agriculture-csa"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -607,7 +607,7 @@ _相关：[电子商务](#e-commerce)_
 - [teikei](https://github.com/teikei/teikei) - 一款基于众包数据绘制社区支持农业地图的 Web 应用。([演示](https://ernte-teilen.org/karte/#/)) `AGPL-3.0` `Nodejs`
 
 
-### 会议管理
+### 会议管理 <a id="conference-management"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -622,7 +622,7 @@ _相关：[通信 - 视频会议](#communication---video-conferencing)_
 - [pretalx](https://pretalx.org) - 基于 Web 的活动管理，包括运营征稿（Call for Papers）、审阅投稿和安排演讲。支持与各种相关工具的导出与导入。([源代码](https://github.com/pretalx/pretalx)) `Apache-2.0` `Python`
 
 
-### 内容管理系统（CMS）
+### 内容管理系统（CMS） <a id="content-management-systems-cms"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -673,7 +673,7 @@ _相关：[博客平台](#blogging-platforms)、[静态站点生成器](#static-
 - [WordPress](https://wordpress.org/) - 世界上使用最广泛的博客与 CMS 引擎。([源代码](https://github.com/WordPress/WordPress)) `GPL-2.0` `PHP`
 
 
-### 客户关系管理（CRM）
+### 客户关系管理（CRM） <a id="customer-relationship-management-crm"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -690,7 +690,7 @@ _相关：[通信 - 电子邮件 - 邮件列表与通讯](#communication---email
 - [Twenty](https://twenty.com) - 现代 CRM，兼具开源的灵活性、先进的功能和时尚的设计。([源代码](https://github.com/twentyhq/twenty)) `AGPL-3.0` `Docker`
 
 
-### 数据库管理
+### 数据库管理 <a id="database-management"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -719,7 +719,7 @@ _另见：[dbdb.io - Database of Databases](https://dbdb.io/)_
 - [StackRender](https://stackrender.io/) - 数据库架构设计与 SQL 迁移生成器，支持 PostgreSQL、MySQL、MariaDB、SQLite、SQL Server 和 Oracle。([演示](https://app.stackrender.io/)、[源代码](https://github.com/stackrender/stackrender)) `AGPL-3.0` `Nodejs/Docker`
 
 
-### DNS
+### DNS <a id="dns"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -735,7 +735,7 @@ _另见：[awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/aweso
 - [Technitium DNS Server](https://technitium.com/dns/) - 带广告拦截功能的权威/递归 DNS 服务器。([源代码](https://github.com/TechnitiumSoftware/DnsServer)) `GPL-3.0` `Docker/C#`
 
 
-### 文档管理
+### 文档管理 <a id="document-management"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -761,7 +761,7 @@ _另见：[awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/aweso
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - 本地托管的 Web 应用，可对 PDF 文件执行多种操作，如合并、拆分、文件转换和 OCR。 `Apache-2.0` `Docker/Java`
 
 
-### 文档管理 - 电子书
+### 文档管理 - 电子书 <a id="document-management---e-books"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -782,7 +782,7 @@ _另见：[awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/aweso
 - [Stump](https://www.stumpapp.dev) - 快速、免费开源的漫画、日式漫画与数字图书服务器，支持 OPDS。([源代码](https://github.com/stumpapp/stump)) `MIT` `Rust`
 
 
-### 文档管理 - 机构知识库与数字图书馆软件
+### 文档管理 - 机构知识库与数字图书馆软件 <a id="document-management---institutional-repository-and-digital-library-software"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -796,7 +796,7 @@ _另见：[awesome-sysadmin/DNS - Servers](https://github.com/awesome-foss/aweso
 - [Samvera Hyrax](https://samvera.org/) - Samvera 框架的前端，后者本身是一个用于浏览和管理基于 Fedora 的数字知识库的 Ruby on Rails 应用。([源代码](https://github.com/samvera/hyrax)) `Apache-2.0` `Ruby`
 
 
-### 文档管理 - 集成图书馆系统（ILS）
+### 文档管理 - 集成图书馆系统（ILS） <a id="document-management---integrated-library-systems-ils"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -809,7 +809,7 @@ _相关：[内容管理系统（CMS）](#content-management-systems-cms)、[归�
 - [RERO ILS](https://rero21.ch/) - 可作为一种服务运行、带联盟功能的大型 ILS，主要面向图书馆网络。包含大多数标准模块（流通、采购、编目……）以及基于 Web 的公众与专业人员界面。([演示](https://ils.test.rero.ch/)、[源代码](https://github.com/rero/rero-ils)) `AGPL-3.0` `Python/Docker`
 
 
-### 电子商务
+### 电子商务 <a id="e-commerce"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -840,7 +840,7 @@ _相关：[社区支持农业（CSA）](#community-supported-agriculture-csa)_
 - [WooCommerce](https://woocommerce.com/) - 基于 WordPress 的电商解决方案。([源代码](https://github.com/woocommerce/woocommerce)) `GPL-3.0` `PHP`
 
 
-### 联合身份与认证
+### 联合身份与认证 <a id="federated-identity--authentication"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -850,7 +850,7 @@ _相关：[社区支持农业（CSA）](#community-supported-agriculture-csa)_
 
 
 
-### RSS 阅读器
+### RSS 阅读器 <a id="feed-readers"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -882,7 +882,7 @@ _相关：[社区支持农业（CSA）](#community-supported-agriculture-csa)_
 - [Yarr](https://github.com/nkanaev/yarr) - Yarr（yet another rss reader）是一个基于 Web 的订阅聚合器，既可作为桌面应用，也可作为个人自托管服务器使用。 `MIT` `Go`
 
 
-### 文件传输与同步
+### 文件传输与同步 <a id="file-transfer--synchronization"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -908,7 +908,7 @@ _相关：[群件（协同办公）](#groupware)_
 - [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) - Unison 是面向 OSX、Unix 和 Windows 的文件同步工具。([源代码](https://github.com/bcpierce00/unison)) `GPL-3.0` `deb/OCaml`
 
 
-### 文件传输 - 分布式文件系统
+### 文件传输 - 分布式文件系统 <a id="file-transfer---distributed-filesystems"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -918,7 +918,7 @@ _相关：[群件（协同办公）](#groupware)_
 
 
 
-### 文件传输 - 对象存储与文件服务器
+### 文件传输 - 对象存储与文件服务器 <a id="file-transfer---object-storage--file-servers"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -931,7 +931,7 @@ _相关：[群件（协同办公）](#groupware)_
 - [ZOT OCI Registry](https://zotregistry.dev) - 生产就绪、厂商中立的 OCI 原生容器镜像仓库。([演示](https://zothub.io)、[源代码](https://github.com/project-zot/zot)) `Apache-2.0` `Go/Docker`
 
 
-### 文件传输 - 点对点文件共享
+### 文件传输 - 点对点文件共享 <a id="file-transfer---peer-to-peer-filesharing"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -946,7 +946,7 @@ _相关：[群件（协同办公）](#groupware)_
 - [Webtor](https://github.com/webtor-io/self-hosted) - 基于 Web 的种子客户端，支持即时音视频流。([演示](https://webtor.io)) `MIT` `Docker`
 
 
-### 文件传输 - 单击与拖放上传
+### 文件传输 - 单击与拖放上传 <a id="file-transfer---single-click--drag-n-drop-upload"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -983,7 +983,7 @@ _相关：[群件（协同办公）](#groupware)_
 - [Zipline](https://github.com/diced/zipline) - 轻量、快速且可靠的文件分享服务器，常与 ShareX 配合使用，提供基于 React 的 Web 界面和快速 API。 `MIT` `Docker/Nodejs`
 
 
-### 文件传输 - 基于网页的文件管理器
+### 文件传输 - 基于网页的文件管理器 <a id="file-transfer---web-based-file-managers"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1008,7 +1008,7 @@ _相关：[群件（协同办公）](#groupware)_
 - [Tiny File Manager](https://tinyfilemanager.github.io) - 基于 PHP 的 Web 文件管理器，单文件的简单、快速且小巧的文件管理器。([演示](https://tinyfilemanager.github.io/demo/)、[源代码](https://github.com/prasathmani/tinyfilemanager)) `GPL-3.0` `PHP`
 
 
-### 游戏
+### 游戏 <a id="games"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1037,7 +1037,7 @@ _相关：[游戏 - 管理工具与控制面板](#games---administrative-utiliti
 - [Zero-K](https://zero-k.info/) - 基于 Springrts 引擎的开源游戏。Zero-K 是一款传统即时战略游戏，强调玩家通过地形改造、物理效果和大量独特单位所展现的创造力——同时在平衡性上支持竞技对战。([源代码](https://github.com/ZeroK-RTS/Zero-K)) `GPL-2.0` `Lua`
 
 
-### 游戏 - 管理工具与控制面板
+### 游戏 - 管理工具与控制面板 <a id="games---administrative-utilities--control-panels"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1068,7 +1068,7 @@ _相关：[游戏](#games)_
 - [Sunshine](https://app.lizardbyte.dev/Sunshine/) - 面向 Moonlight 的远程游戏串流主机，支持最高 120 帧和 4K 分辨率。([源代码](https://github.com/LizardByte/Sunshine)) `GPL-3.0` `C++/deb/Docker`
 
 
-### 家谱
+### 家谱 <a id="genealogy"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1081,7 +1081,7 @@ _相关：[游戏](#games)_
 - [webtrees](https://www.webtrees.net) - Webtrees 是网络上领先的在线协作家谱应用。([演示](https://dev.webtrees.net/demo-stable/index.php?ctype=gedcom&ged=demo)、[源代码](https://github.com/fisharebest/webtrees)) `GPL-3.0` `PHP`
 
 
-### 生成式人工智能（GenAI）
+### 生成式人工智能（GenAI） <a id="generative-artificial-intelligence-genai"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1102,7 +1102,7 @@ _相关：[游戏](#games)_
 - [Vane](https://github.com/ItzCrazyKns/Vane) - AI 驱动的搜索引擎（Perplexity AI 的替代方案）。 `MIT` `Docker`
 
 
-### 群件（协同办公）
+### 群件（协同办公） <a id="groupware"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1125,7 +1125,7 @@ _相关：[预约与日程安排](#booking-and-scheduling)_
 - [Zimbra Collaboration](https://www.zimbra.com/) - 邮件、日历、协作服务器，带 Web 界面和大量集成。([源代码](https://github.com/zimbra)) `GPL-2.0/CPAL-1.0` `Java`
 
 
-### 健康与健身
+### 健康与健身 <a id="health-and-fitness"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1140,7 +1140,7 @@ _相关：[预约与日程安排](#booking-and-scheduling)_
 - [wger](https://wger.de/) - 基于 Web 的个人锻炼、健身与体重记录/追踪工具。也可作为简单的健身房管理工具，并提供完整的 REST API。([演示](https://wger.de/en/dashboard)、[源代码](https://github.com/wger-project/wger)) `AGPL-3.0` `Python/Docker`
 
 
-### 人力资源管理（HRM）
+### 人力资源管理（HRM） <a id="human-resources-management-hrm"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1151,7 +1151,7 @@ _相关：[预约与日程安排](#booking-and-scheduling)_
 - [MintHCM](https://minthcm.org/) - 基于两款知名热门商业应用 SugarCRM Community Edition 和 SuiteCRM 构建的人力资本管理工具。([源代码](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
 
 
-### 身份管理
+### 身份管理 <a id="identity-management"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1161,7 +1161,7 @@ _相关：[预约与日程安排](#booking-and-scheduling)_
 
 
 
-### 物联网（IoT）
+### 物联网（IoT） <a id="internet-of-things-iot"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1191,7 +1191,7 @@ _相关：[自动化](#automation)_
 - [WebThings Gateway](https://webthings.io/gateway/) - WebThings 是 Web of Things 的开源实现，包括 WebThings Gateway 和 WebThings Framework。([源代码](https://github.com/WebThingsIO/gateway)) `MPL-2.0` `Nodejs`
 
 
-### 库存管理
+### 库存管理 <a id="inventory-management"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1211,7 +1211,7 @@ _另见：[awesome-sysadmin/IT Asset Management](https://github.com/awesome-foss
 - [Spoolman](https://github.com/Donkie/Spoolman) - 追踪你的 3D 打印耗材卷库存。 `MIT` `Docker/Python`
 
 
-### 知识管理工具
+### 知识管理工具 <a id="knowledge-management-tools"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1228,7 +1228,7 @@ _相关：[笔记与编辑器](#note-taking--editors)、[Wiki](#wikis)、[数据
 - [TeamMapper](https://github.com/b310-digital/teammapper) - 托管并创建你自己的思维导图。与团队分享你的思维导图会话并实时协作编辑。([演示](https://map.kits.blog)) `MIT` `Docker/Nodejs`
 
 
-### 学习与课程
+### 学习与课程 <a id="learning-and-courses"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1251,7 +1251,7 @@ _相关：[笔记与编辑器](#note-taking--editors)、[Wiki](#wikis)、[数据
 - [RosarioSIS](https://www.rosariosis.org/) - 面向学校管理的学生信息系统。具备学生人口统计、成绩、排课、出勤、学生账单、纪律与餐饮服务等模块。([演示](https://www.rosariosis.org/demo/)、[源代码](https://gitlab.com/francoisjacquet/rosariosis/)) `GPL-2.0` `PHP`
 
 
-### 制造业
+### 制造业 <a id="manufacturing"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1265,7 +1265,7 @@ _相关：[笔记与编辑器](#note-taking--editors)、[Wiki](#wikis)、[数据
 - [Octoprint](https://octoprint.org/) - 用于控制消费级 3D 打印机的灵敏 Web 界面。([源代码](https://github.com/OctoPrint/OctoPrint)) `AGPL-3.0` `Docker/Python`
 
 
-### 地图与全球定位系统（GPS）
+### 地图与全球定位系统（GPS） <a id="maps-and-global-positioning-system-gps"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1294,7 +1294,7 @@ _另见：[awesome-openstreetmap](https://github.com/osmlab/awesome-openstreetma
 - [wanderer](https://github.com/open-wanderer/wanderer) - 轨迹数据库，你可上传已记录的轨迹或创建新轨迹，并添加各种元数据以构建易于检索的目录。([演示](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`
 
 
-### 媒体管理
+### 媒体管理 <a id="media-management"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1335,7 +1335,7 @@ _相关：[自动化](#automation)、[媒体流](#media-streaming)、[媒体流 
 - [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) - yt-dlp 的 Web GUI。 `MPL-2.0` `Docker/Go/Nodejs`
 
 
-### 媒体流
+### 媒体流 <a id="media-streaming"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1349,7 +1349,7 @@ _另见：[List of streaming media systems - Wikipedia](https://en.wikipedia.org
 
 
 
-### 媒体流 - 音频流
+### 媒体流 - 音频流 <a id="media-streaming---audio-streaming"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1386,7 +1386,7 @@ _相关：[媒体管理](#media-management)_
 - [vod2pod-rss](https://github.com/madiele/vod2pod-rss) `⚠` - 将 YouTube 和 Twitch 频道转换为播客，无需存储。即时将 VOD 转码为 192k 的 MP3，并生成可在播客客户端中使用的 RSS 订阅。 `MIT` `Docker`
 
 
-### 媒体流 - 多媒体流
+### 媒体流 - 多媒体流 <a id="media-streaming---multimedia-streaming"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1412,7 +1412,7 @@ _相关：[媒体流 - 视频流](#media-streaming---video-streaming)、[媒体�
 - [üWave](https://u-wave.net/) `⚠` - 自托管协作收听平台。用户轮流播放来自 YouTube 和 SoundCloud 等多种媒体源的媒体——歌曲、演讲、游戏视频或其他任何内容。([演示](https://wlk.yt/)、[源代码](https://github.com/u-wave)) `MIT` `Nodejs`
 
 
-### 媒体流 - 视频流
+### 媒体流 - 视频流 <a id="media-streaming---video-streaming"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1436,7 +1436,7 @@ _相关：[视频监控](#video-surveillance)、[媒体流 - 多媒体流](#medi
 - [VideoLAN Client (VLC)](https://www.videolan.org/) - 跨平台多媒体播放器客户端与服务器，支持大多数多媒体文件以及 DVD、音频 CD、VCD 和各种流媒体协议。([源代码](https://code.videolan.org/videolan/vlc)) `GPL-2.0` `C/deb`
 
 
-### 杂项
+### 杂项 <a id="miscellaneous"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1518,7 +1518,7 @@ _相关：[视频监控](#video-surveillance)、[媒体流 - 多媒体流](#medi
 - [Zero-TOTP](https://zero-totp.com) - 基于零知识加密的完整、可靠、安全的零信任 Web 应用，用于存储你的 TOTP 验证码。([源代码](https://github.com/SeaweedbrainCY/zero-totp)) `GPL-3.0` `Docker`
 
 
-### 财务、预算与管理
+### 财务、预算与管理 <a id="money-budgeting--management"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1566,7 +1566,7 @@ _相关：[库存管理](#inventory-management)、[资源规划](#resource-plann
 - [YAFFA](https://www.yaffa.cc) - 个人财务 Web 应用，可用于追踪资金、支出、预算和投资。它也有助于长期财务规划。([演示](https://sandbox.yaffa.cc)、[源代码](https://github.com/kantorge/yaffa)) `MIT` `PHP`
 
 
-### 监控与状态页面
+### 监控与状态页面 <a id="monitoring--status-pages"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1578,7 +1578,7 @@ _相关：[个人仪表盘](#personal-dashboards)_
 
 
 
-### 网络工具
+### 网络工具 <a id="network-utilities"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1599,7 +1599,7 @@ _另见：[awesome-sysadmin/Monitoring](https://github.com/awesome-foss/awesome-
 - [whois](https://github.com/KincaidYang/whois) - 面向域名、IP 地址、CIDR 前缀和 ASN 的 WHOIS/RDAP 查询 API，提供统一的 JSON 输出、缓存、API 密钥认证、批量查询以及面向 AI 助手的 MCP 支持。([演示](https://whois.ddnsip.cn/example.com)) `MIT` `Go/Docker`
 
 
-### 笔记与编辑器
+### 笔记与编辑器 <a id="note-taking--editors"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1631,7 +1631,7 @@ _相关：[Wiki](#wikis)_
 - [Writing](https://josephernest.github.io/writing/) - 浏览器中的轻量级免打扰文本编辑器（支持 Markdown 和 LaTeX）。书写时无延迟。([源代码](https://github.com/josephernest/writing)) `MIT` `Javascript`
 
 
-### 办公套件
+### 办公套件 <a id="office-suites"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1645,7 +1645,7 @@ _相关：[Wiki](#wikis)_
 - [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - 办公套件，让你能在一处管理文档、项目、团队和客户关系。([源代码](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
 
 
-### 密码管理器
+### 密码管理器 <a id="password-managers"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1660,7 +1660,7 @@ _相关：[Wiki](#wikis)_
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - 用 Rust 编写的轻量级 Bitwarden 服务端 API 实现。`GPL-3.0` `Rust/Docker`
 
 
-### 粘贴板
+### 粘贴板 <a id="pastebins"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1689,7 +1689,7 @@ _相关：[Wiki](#wikis)_
 - [Yopass](https://github.com/jhaals/yopass) - 安全地分享密钥、密码和文件。([演示](https://yopass.se/)) `Apache-2.0` `Go/Docker`
 
 
-### 个人仪表盘
+### 个人仪表盘 <a id="personal-dashboards"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1718,7 +1718,7 @@ _相关：[监控与状态页面](#monitoring--status-pages)、[书签与链接�
 - [Your Spotify](https://github.com/Yooooomi/your_spotify) `⚠` - 允许你记录 Spotify 收听活动，并通过 Web 应用提供相关统计。`MIT` `Nodejs/Docker`
 
 
-### 相册
+### 相册 <a id="photo-galleries"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1749,7 +1749,7 @@ _相关：[静态站点生成器](#static-site-generators)、[媒体流 - 视频
 - [Zenphoto](https://www.zenphoto.org/) - 画廊和 CMS 项目。([源代码](https://github.com/zenphoto/zenphoto)) `GPL-2.0` `PHP`
 
 
-### 投票与活动
+### 投票与活动 <a id="polls-and-events"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1778,7 +1778,7 @@ _相关：[预约与日程安排](#booking-and-scheduling)_
 - [Revel](https://www.letsrevel.io) `⚠` - 面向社区的活动管理和售票平台。([演示](https://demo.letsrevel.io)、[源代码](https://github.com/letsrevel/revel-backend)、[客户端](https://github.com/letsrevel)) `MIT` `Python/Docker`
 
 
-### 代理
+### 代理 <a id="proxy"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1798,7 +1798,7 @@ _相关：[Web 服务器](#web-servers)_
 - [Tinyproxy](https://tinyproxy.github.io/) - 轻量级 HTTP/HTTPS 代理守护进程。([源代码](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C/deb`
 
 
-### 食谱管理
+### 食谱管理 <a id="recipe-management"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1816,7 +1816,7 @@ _相关：[Web 服务器](#web-servers)_
 - [What To Cook?](https://github.com/kassner/whattocook) - 根据你家里现有的食材，获取今天要做的菜谱。`AGPL-3.0` `Docker`
 
 
-### 远程访问
+### 远程访问 <a id="remote-access"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1833,7 +1833,7 @@ _相关：[Web 服务器](#web-servers)_
 - [Warpgate](https://github.com/warp-tech/warpgate) - 完全透明的 SSH、HTTPS、Kubernetes、MySQL 和 Postgres 堡垒机/PAM，无需额外的客户端软件。`Apache-2.0` `Rust/Docker`
 
 
-### 资源规划
+### 资源规划 <a id="resource-planning"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1851,7 +1851,7 @@ _相关：[财务、预算与管理](#money-budgeting--management)、[库存管�
 - [Tryton](https://www.tryton.org/) - 免费开源的业务解决方案。([演示](https://www.tryton.org/demo)、[源代码](https://foss.heptapod.net/tryton/tryton)) `GPL-3.0` `Python`
 
 
-### 搜索引擎
+### 搜索引擎 <a id="search-engines"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1873,7 +1873,7 @@ _相关：[财务、预算与管理](#money-budgeting--management)、[库存管�
 - [Yacy](https://yacy.net/en/index.html) - 基于对等网络的去中心化搜索引擎服务器。([源代码](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java/Docker/K8S`
 
 
-### 自托管解决方案
+### 自托管解决方案 <a id="self-hosting-solutions"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1902,7 +1902,7 @@ _相关：[财务、预算与管理](#money-budgeting--management)、[库存管�
 - [YunoHost](https://yunohost.org/) - 旨在让每个人都能使用自托管的服务器操作系统。([演示](https://yunohost.org/#/try)、[源代码](https://github.com/YunoHost)) `AGPL-3.0` `Python/Shell`
 
 
-### 软件开发
+### 软件开发 <a id="software-development"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1912,7 +1912,7 @@ _相关：[财务、预算与管理](#money-budgeting--management)、[库存管�
 
 
 
-### 软件开发 - API 管理
+### 软件开发 - API 管理 <a id="software-development---api-management"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1933,7 +1933,7 @@ _相关：[财务、预算与管理](#money-budgeting--management)、[库存管�
 - [Tyk](https://tyk.io) - 快速且可扩展的开源 API 网关。开箱即用的 Tyk 提供包含 API 网关、API 分析、开发者门户和 API 管理仪表盘的 API 管理平台。([源代码](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go/Docker/K8S`
 
 
-### 软件开发 - 持续集成与部署
+### 软件开发 - 持续集成与部署 <a id="software-development---continuous-integration--deployment"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1945,7 +1945,7 @@ _相关：[自动化](#automation)_
 
 
 
-### 软件开发 - FaaS 与无服务器
+### 软件开发 - FaaS 与无服务器 <a id="software-development---faas--serverless"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1955,7 +1955,7 @@ _相关：[自动化](#automation)_
 
 
 
-### 软件开发 - 功能开关
+### 软件开发 - 功能开关 <a id="software-development---feature-toggle"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1970,7 +1970,7 @@ _相关：[软件开发 - IDE 与工具](#software-development---ide--tools)_
 - [Nona](https://nonaconfig.com) - 远程配置和功能标志服务，提供单个 REST API、多个环境以及官方的 JavaScript 和 .NET 客户端（Firebase Remote Config 的替代品）。([源代码](https://github.com/Ryware/nona-config)) `Apache-2.0` `Docker`
 
 
-### 软件开发 - IDE 与工具
+### 软件开发 - IDE 与工具 <a id="software-development---ide--tools"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -1992,7 +1992,7 @@ _相关：[软件开发 - 低代码](#software-development---low-code)_
 - [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - 基于 Web 浏览器的 R 语言 IDE。([源代码](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`
 
 
-### 软件开发 - 本地化
+### 软件开发 - 本地化 <a id="software-development---localization"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2004,7 +2004,7 @@ _相关：[软件开发 - 低代码](#software-development---low-code)_
 - [Weblate](https://weblate.org) - 基于 Web 的翻译工具，与版本控制紧密集成。([源代码](https://github.com/WeblateOrg/weblate)) `GPL-3.0` `Python/Docker/K8S`
 
 
-### 软件开发 - 低代码
+### 软件开发 - 低代码 <a id="software-development---low-code"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2023,7 +2023,7 @@ _相关：[软件开发 - IDE 与工具](#software-development---ide--tools)_
 - [TrailBase](https://trailbase.io/) - 开放、亚毫秒级、单可执行文件的 FireBase 替代品，具有类型安全的 REST 和实时 API、内置 JS/TS 运行时、认证和管理 UI。([演示](https://demo.trailbase.io)、[源代码](https://github.com/trailbaseio/trailbase)) `OSL-3.0` `Rust/Docker`
 
 
-### 软件开发 - 项目管理
+### 软件开发 - 项目管理 <a id="software-development---project-management"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2069,7 +2069,7 @@ _相关：[工单系统](#ticketing)、[任务管理与待办清单](#task-manag
 - [ZenTao](https://www.zentao.pm/) - 一个敏捷（scrum）项目管理系统/工具。([源代码](https://github.com/easysoft/zentaopms)) `AGPL-3.0` `PHP`
 
 
-### 软件开发 - 测试
+### 软件开发 - 测试 <a id="software-development---testing"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2080,7 +2080,7 @@ _相关：[工单系统](#ticketing)、[任务管理与待办清单](#task-manag
 - [WebHook Tester](https://github.com/tarampampam/webhook-tester) - 用于测试 WebHook 等的强大工具。`MIT` `Docker/Go/deb/K8S`
 
 
-### 静态站点生成器
+### 静态站点生成器 <a id="static-site-generators"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2092,7 +2092,7 @@ _相关：[博客平台](#blogging-platforms)、[相册](#photo-galleries)、[�
 
 
 
-### 任务管理与待办清单
+### 任务管理与待办清单 <a id="task-management--to-do-lists"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2125,7 +2125,7 @@ _相关：[软件开发 - 项目管理](#software-development---project-manageme
 - [Will Be Done](https://will-be-done.app/) - 离线优先的任务管理器，具有每周规划、项目看板、实时同步、Vim 快捷键、桌面快速添加，以及从流行任务管理器导入功能（TickTick、Todoist 的替代品）。([演示](https://demo.will-be-done.app/)、[源代码](https://github.com/will-be-done/will-be-done)) `AGPL-3.0` `Docker/Nodejs`
 
 
-### 工单系统
+### 工单系统 <a id="ticketing"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2148,7 +2148,7 @@ _相关：[任务管理与待办清单](#task-management--to-do-lists)、[软件
 - [Zammad](https://zammad.org/) - 易于使用但功能强大的支持和工单系统。([源代码](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby/deb`
 
 
-### 时间追踪
+### 时间追踪 <a id="time-tracking"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2166,7 +2166,7 @@ _相关：[任务管理与待办清单](#task-management--to-do-lists)、[软件
 - [Ziit](https://ziit.app) - 代码时间追踪的瑞士军刀（WakaTime 的替代品）。([源代码](https://github.com/0pandadev/ziit)) `AGPL-3.0` `Docker`
 
 
-### 旅行组织
+### 旅行组织 <a id="travel-organization"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2177,7 +2177,7 @@ _相关：[预约与日程安排](#booking-and-scheduling)、[地图与全球定
 - [Surmai](https://surmai.app/) - 协作式个人和家庭旅行组织工具。([演示](https://demo.surmai.app)、[源代码](https://github.com/rohitkumbhar/surmai)) `MIT` `Docker`
 
 
-### 短链接服务
+### 短链接服务 <a id="url-shorteners"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2194,7 +2194,7 @@ _相关：[预约与日程安排](#booking-and-scheduling)、[地图与全球定
 - [YOURLS](https://yourls.org/) - YOURLS 是一组 PHP 脚本，让你运行自己的 URL 短链服务。功能包括密码保护、URL 自定义、书签小工具、统计、API、插件、jsonp。([源代码](https://github.com/YOURLS/YOURLS)) `MIT` `PHP`
 
 
-### 视频监控
+### 视频监控 <a id="video-surveillance"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2212,7 +2212,7 @@ _相关：[媒体流 - 视频流](#media-streaming---video-streaming)_
 - [Zoneminder](https://www.zoneminder.com/) - 闭路电视（CCTV）软件应用，支持 IP、USB 和模拟摄像头。([源代码](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
 
 
-### VPN
+### VPN <a id="vpn"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2224,7 +2224,7 @@ _另见：[Awesome-Tunneling](https://github.com/anderspitman/awesome-tunneling)
 
 
 
-### Web 服务器
+### Web 服务器 <a id="web-servers"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2253,7 +2253,7 @@ _相关：[代理](#proxy)_
 - [Zoraxy](https://zoraxy.aroz.org/) - 通用 HTTP 反向代理和转发工具。([源代码](https://github.com/tobychui/zoraxy)) `AGPL-3.0` `Go/Docker`
 
 
-### Wiki
+### Wiki <a id="wikis"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2290,7 +2290,7 @@ _另见：[Wikimatrix](https://www.wikimatrix.org/)、[List of wiki software - W
 
 --------------------
 
-## 许可证列表
+## 许可证列表 <a id="list-of-licenses"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2338,13 +2338,13 @@ _另见：[Wikimatrix](https://www.wikimatrix.org/)、[List of wiki software - W
 
 --------------------
 
-## 反特性
+## 反特性 <a id="anti-features"></a>
 
 - `⚠ ` - 依赖用户无法控制的专有服务
 
 --------------------
 
-## 外部链接
+## 外部链接 <a id="external-links"></a>
 
 **[`^        返回顶部        ^`](#awesome-selfhosted)**
 
@@ -2358,11 +2358,11 @@ _另见：[Wikimatrix](https://www.wikimatrix.org/)、[List of wiki software - W
 
 --------------------
 
-## 贡献指南
+## 贡献指南 <a id="contributing"></a>
 
 贡献指南见[此处](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/CONTRIBUTING.md)。
 
-## 许可证
+## 许可证 <a id="license"></a>
 
 本列表采用 [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) 许可协议。
 该许可协议的条款摘要见[此处](https://creativecommons.org/licenses/by-sa/3.0/)。
